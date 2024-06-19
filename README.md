@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mobile Application Development](https://github.com/CPET15L-Mobile-Application-Development/ProjectDev)
 
-- 🌱 I’m currently learning **Mobile App Development, Machine Learning, and**
+- 🌱 I’m currently learning **Mobile App Development, Machine Learning, and UI & UX**
 
 - 💬 Ask me about **Hardware and Software Computer Functionalities**
 
