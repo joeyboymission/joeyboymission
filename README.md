@@ -65,14 +65,6 @@
 
 ###
 
-<h2 align="left">My Streak!</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/joeyboymission/joeyboymission/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Connect with Me!</h2>
 
 ###
